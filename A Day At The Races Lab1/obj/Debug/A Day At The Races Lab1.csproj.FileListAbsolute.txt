@@ -1,0 +1,11 @@
+c:\users\gwin group\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\bin\Debug\A Day At The Races Lab1.exe.config
+c:\users\gwin group\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\bin\Debug\A Day At The Races Lab1.exe
+c:\users\gwin group\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\bin\Debug\A Day At The Races Lab1.pdb
+c:\users\gwin group\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\obj\Debug\A Day At The Races Lab1.csprojResolveAssemblyReference.cache
+c:\users\gwin group\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\obj\Debug\A_Day_At_The_Races_Lab1.Form1.resources
+c:\users\gwin group\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\obj\Debug\A_Day_At_The_Races_Lab1.Properties.Resources.resources
+c:\users\gwin group\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\obj\Debug\A Day At The Races Lab1.csproj.GenerateResource.Cache
+c:\users\gwin group\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\obj\Debug\A Day At The Races Lab1.exe
+c:\users\gwin group\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\obj\Debug\A Day At The Races Lab1.pdb
+C:\Users\GWIN GROUP\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\bin\Debug\A Day At The Races Lab1.exe.CodeAnalysisLog.xml
+C:\Users\GWIN GROUP\documents\visual studio 2015\Projects\ChapterFourProjects\A Day At The Races Lab1\A Day At The Races Lab1\bin\Debug\A Day At The Races Lab1.exe.lastcodeanalysissucceeded
